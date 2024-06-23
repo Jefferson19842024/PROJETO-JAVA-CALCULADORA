@@ -10,11 +10,8 @@ package projetocalculadora;
  */
 public class ProjetoCalculadora {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Bem vindo ao projeto de calculadora...");
     }
     
 }
